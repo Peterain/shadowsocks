@@ -1,2 +1,3 @@
 System Required: CentOS7
-See WIKI
+
+See [WIKI](https://github.com/cloudstarry/shadowsocks/wiki)
